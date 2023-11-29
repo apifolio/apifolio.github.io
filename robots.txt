@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+Sitemap: http://apifolio.tilda.ws/sitemap.xml
+Host: apifolio.tilda.ws
